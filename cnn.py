@@ -4,8 +4,8 @@ from conv import Conv3x3
 from maxpool import MaxPool2
 from softmax import Softmax
 
-# We only use the first 1k examples of each set in the interest of time.
-# Feel free to change this if you want.
+## We only use the first 1k examples of each set in the interest of time.
+## Feel free to change this if you want.
 train_images = mnist.train_images()[:1000]
 train_labels = mnist.train_labels()[:1000]
 test_images = mnist.test_images()[:1000]

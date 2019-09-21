@@ -1,7 +1,7 @@
 import numpy as np
 
 class Softmax:
-  # A standard fully-connected layer with softmax activation.
+  ## A standard fully-connected layer with softmax activation.
 
   def __init__(self, input_len, nodes):
     # We divide by input_len to reduce the variance of our initial values

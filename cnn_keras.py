@@ -1,3 +1,4 @@
+# Libraries
 import numpy as np
 import mnist
 from keras.models import Sequential

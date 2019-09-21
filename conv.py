@@ -8,7 +8,7 @@ to use Conv3x3 multiple times, we'd have to make the input be a 3d numpy array.
 '''
 
 class Conv3x3:
-  # A Convolution layer using 3x3 filters.
+  ## A Convolution layer using 3x3 filters.
 
   def __init__(self, num_filters):
     self.num_filters = num_filters

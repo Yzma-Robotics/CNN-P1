@@ -1,4 +1,4 @@
-## A Convolution Neural Network (CNN) From Scratch With Pythin - Part 1
+## A Convolution Neural Network (CNN) From Scratch With Python - Part 1
 
 ### Prerequisites
 You must have Numpy (for math computations)

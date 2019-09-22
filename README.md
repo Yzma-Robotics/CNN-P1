@@ -17,6 +17,7 @@ $ python cnn.py
 $ python cnn_keras.py
 ```
 
+## Understanding 1D and 3D Convolution Neural Network | Keras
 When we say Convolution Neural Network (CNN), generally we refer to a 2 dimensional CNN which is used for image classification. But there are two other types of CNNs used in the real world, which are 1 dimensional and 3 dimensional CNNs. In this guide, we are going to cover 1D and 3D CNNs and their applications in the real world.
 
 ### 2 dimensional CNN | Conv2D
